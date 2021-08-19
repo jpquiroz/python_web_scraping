@@ -1,16 +1,14 @@
-# README
-# python_web_scraping
+# Python Web Scraping
 
 Python web scraping with BeautifulSoup
 
 
-* Requirements
+## Requirements
 
 - Python 3.6.x
 
 
-
-* Installation
+## Installation
 
 - pip install beautifulsoup4
 
