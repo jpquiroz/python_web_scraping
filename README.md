@@ -9,12 +9,16 @@ Python web scraping with BeautifulSoup, to scrap scholar.google.com
 
 
 ## Installation
+```bash
+pip install beautifulsoup4
+```
 
-- pip install beautifulsoup4
-
-- pip install requests
-
+```bash
+pip install requests
+```
 
 ## Launching
 
-- python3 scraping.py
+```bash
+python3 scraping.py
+```
