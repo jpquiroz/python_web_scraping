@@ -1,6 +1,6 @@
 # Python Web Scraping
 
-Python web scraping with BeautifulSoup
+Python web scraping with BeautifulSoup, to scrap scholar.google.com
 
 
 ## Requirements
@@ -15,6 +15,6 @@ Python web scraping with BeautifulSoup
 - pip install requests
 
 
-* Launching
+## Launching
 
 - python3 scraping.py
